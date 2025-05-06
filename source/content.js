@@ -68,7 +68,7 @@ class ScoreExtensionElementFactory {
             newStyleElement.classList.add(className);
 
             // DEBUG: draw a red border around them.
-            newStyleElement.textContent = `.${className} {background-color: #224;}`;
+            newStyleElement.textContent = `.${className} {border: 1px solid red;}`;
 
             // Add the new style sheet to the document.
             document.head.appendChild(newStyleElement);
