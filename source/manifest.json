@@ -1,6 +1,6 @@
 {
     "name": "Item-Scoring Extension for Destiny Item Manager",
-    "description": "Makes weapons easier to rank by giving each a score when comparing them in Destiny Item Manager",
+    "description": "Makes Destiny 2 weapons easier to rank by giving each a score when comparing them in Destiny Item Manager",
     "manifest_version": 3,
     "version": "0.0.0.2",
     "action": {
