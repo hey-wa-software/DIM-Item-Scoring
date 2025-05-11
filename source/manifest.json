@@ -2,7 +2,7 @@
     "name": "Item-Scoring Extension for Destiny Item Manager",
     "description": "Makes Destiny 2 weapons easier to rank by giving each a score when comparing them in Destiny Item Manager",
     "manifest_version": 3,
-    "version": "0.0.0.2",
+    "version": "0.0.0.3",
     "action": {
         "default_icon": {
             "16": "icon16.png",
@@ -19,7 +19,7 @@
                 "https://app.destinyitemmanager.com/*/d2/inventory"
             ],
             "js": [
-                "./content.js"
+                "content.js"
             ],
             "type": "module"
         }
